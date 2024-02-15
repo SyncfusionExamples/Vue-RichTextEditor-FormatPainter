@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@syncfusion/ej2-vue-richtexteditor": "^22.2.5",
+    "@syncfusion/ej2-vue-richtexteditor": "^24.2.4",
     "vue": "^3.3.4"
   },
   "devDependencies": {
